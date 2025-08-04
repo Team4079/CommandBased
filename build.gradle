@@ -50,5 +50,5 @@ compileJava {
 }
 
 wrapper {
-    gradleVersion = '4.9'
+    gradleVersion = '9.0.0'
 }
